@@ -1,0 +1,8 @@
+*
+!*.c
+!sol
+!*.gpl
+!*.png
+!Makefile
+!README.md
+!.gitignore

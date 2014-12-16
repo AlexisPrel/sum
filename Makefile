@@ -5,7 +5,7 @@ GRAPH = gnuplot
 BROWSER = google-chrome
 FILE = sol
 # DIR=/path	#uncomment #7 and #18 for output to be opened effortlessly 
-URL = https://github.com/AlexisPrel/.git
+URL = https://github.com/AlexisPrel/sum.git
 
 all: sum graph clean
 
