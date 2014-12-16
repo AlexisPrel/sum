@@ -1,0 +1,6 @@
+unset key
+
+set term png
+set o "sum.png"
+
+p pi*pi*pi*pi/90, "sol" u 1:2
